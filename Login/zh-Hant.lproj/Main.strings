@@ -1,0 +1,27 @@
+
+/* Class = "UINavigationItem"; title = "Login"; ObjectID = "I4G-96-f4h"; */
+"I4G-96-f4h.title" = "Login";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "SYC-wd-3lz"; */
+"SYC-wd-3lz.text" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "UeH-cT-ZF9"; */
+"UeH-cT-ZF9.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "Vdt-sP-nNu"; */
+"Vdt-sP-nNu.text" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Register"; ObjectID = "W8r-Pf-t4U"; */
+"W8r-Pf-t4U.title" = "Register";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "akU-qA-6MP"; */
+"akU-qA-6MP.text" = "Email";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "bF6-dH-PiC"; */
+"bF6-dH-PiC.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "iU0-oW-Wsg"; */
+"iU0-oW-Wsg.normalTitle" = "Login";
+
+/* Class = "UILabel"; text = "UserName"; ObjectID = "uv2-LW-YrF"; */
+"uv2-LW-YrF.text" = "UserName";
